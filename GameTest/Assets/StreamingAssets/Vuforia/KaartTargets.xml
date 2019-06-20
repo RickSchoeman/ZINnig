@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Persoonsvormkaart" size="549.000000 801.890442" />
+    <ImageTarget name="Onderwerpkaart" size="549.000000 801.890442" />
+    <ImageTarget name="Meewerkendvoorwerpkaart" size="549.000000 801.890442" />
+    <ImageTarget name="Lijdendvoorwerpkaart" size="549.000000 801.890442" />
+    <ImageTarget name="Bijwoordelijkebepalingkaart" size="549.000000 801.890442" />
+    <ImageTarget name="Zelfstandignaamwoordkaart" size="549.000000 801.890442" />
+    <ImageTarget name="Werkwoordkaart" size="549.000000 801.890442" />
+    <ImageTarget name="Persoonlijkvoornaamwoordkaart" size="549.000000 801.890442" />
+    <ImageTarget name="Lidwoordkaart" size="549.000000 801.890442" />
+  </Tracking>
+</QCARConfig>

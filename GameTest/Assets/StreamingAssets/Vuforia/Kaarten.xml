@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Koning_Schoppen" size="5.000000 7.043269" />
+    <ImageTarget name="Koning_Ruiten" size="5.000000 6.976893" />
+    <ImageTarget name="Koning_Klaver" size="5.000000 7.026749" />
+    <ImageTarget name="Koning_Harten" size="5.000000 7.041109" />
+  </Tracking>
+</QCARConfig>
